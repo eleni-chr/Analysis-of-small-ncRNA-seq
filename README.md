@@ -4,7 +4,7 @@ This repository contains code and instruction files for processing, analysing, a
 _README written by Dr Eleni Christoforidou._
 
 ## Overview
-This repository contains the complete workflow for analysing RNA-seq data focusing on small RNAs, including miRNAs, tRFs, and piRNAs. The analysis pipeline processes raw FASTQ files, trims adapters, performs quality control, aligns reads to reference sequences, and quantifies RNA abundance. The associated RNA-seq data files (.fastq.gz) are publicly available at XXXX. The associated publication of the results of this analysis is open-access at XXXXX.
+This repository contains the complete workflow for analysing RNA-seq data focusing on small RNAs, including miRNAs, tRFs, and piRNAs. The analysis pipeline processes raw FASTQ files, trims adapters, performs quality control, aligns reads to reference sequences, and quantifies RNA abundance. The associated RNA-seq data files (.fastq.gz) are publicly available at [Insert Database Name or Link]. The results of this analysis are published in an open-access article available at [Insert DOI or URL].
 
 ## Features
 - **Concatenating:** Scripts for concatenating sequencing files from multiple RNA-seq runs.
@@ -13,7 +13,6 @@ This repository contains the complete workflow for analysing RNA-seq data focusi
 - **Alignment:** Scripts for multi-step alignment using Bowtie.
 - **Quantification:** FeatureCounts scripts for quantifying aligned reads.
 - **Normalisation:** Scripts to normalise RNA counts using DESeq2's variance-stabilizing transformation.
-- **Sample ID Extraction:** Several scripts automatically extract sample IDs from filenames in the format `P<number>-<digit>`.
 
 ## Workflow
 All detailed instructions for reproducing this analysis are in the `Workflow.docx` file.
@@ -31,8 +30,6 @@ The following tool versions have been used with this code:
 - **MATLAB:** Release R2024a and Release R2024b.
 - **R:** Version 4.4.1
 - **RStudio:** 2024.09.0 Build 375.
-
-Refer to `Instructions/detailed_analysis_instructions.md` for installation commands and additional dependencies.
 
 ## Citation
 If you use this repository, please cite:
