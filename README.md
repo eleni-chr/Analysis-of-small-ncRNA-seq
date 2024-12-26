@@ -35,8 +35,8 @@ The following tool versions have been used with this code:
 
 ## Citation
 If you use this repository, please cite:
-- This repository: *RNAseq-Small-RNAs-Analysis* (GitHub link to be added)
+- This repository (see CITATION file).
 - Relevant publications for referenced tools (e.g., Cutadapt, FastQC, Bowtie).
 
 ## License
-This repository is distributed under the Apache v2.0 License. See `LICENSE` for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
