@@ -32,6 +32,7 @@ The following tool versions have been used with this code:
 - **MATLAB:** Release R2024a and Release R2024b.
 - **R:** Version 4.4.1
 - **RStudio:** 2024.09.0 Build 375.
+- **Ubuntu:** Release 24.04.
 
 ## Citation
 If you use this repository, please cite:
