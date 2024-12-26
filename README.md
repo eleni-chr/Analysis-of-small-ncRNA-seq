@@ -3,6 +3,8 @@ This repository contains code and instruction files for processing, analysing, a
 
 _README written by Dr Eleni Christoforidou._
 
+**Disclaimer:** The code provided in this toolkit has not been peer-reviewed and is subject to errors. Users are encouraged to thoroughly test the code and verify its accuracy for their specific use cases. The authors of this code are not responsible for any errors or inaccuracies in the results obtained from using these functions. Additionally, the code may be subject to updates or modifications, and users should keep an eye out for future releases to ensure the most accurate and up-to-date functionality.
+
 ## Overview
 This repository contains the complete workflow for analysing RNA-seq data focusing on small RNAs, including miRNAs, tRFs, and piRNAs. The analysis pipeline processes raw FASTQ files, trims adapters, performs quality control, aligns reads to reference sequences, and quantifies RNA abundance. The associated RNA-seq data files (.fastq.gz) are publicly available at [Insert Database Name or Link]. The results of this analysis are published in an open-access article available at [Insert DOI or URL].
 
