@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Christoforidou"
+  given-names: "Eleni"
+  orcid: "https://orcid.org/0000-0002-9352-4908"
+title: "Analysis of small ncRNA-seq"
+version: 1.0.0
+date-released: 2024-12-26
+url: "https://github.com/eleni-chr/Analysis-of-small-ncRNA-seq"
